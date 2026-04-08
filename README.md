@@ -19,21 +19,33 @@ DAX
 Data Modeling
 
 ## Dashboard Features
-KPI cards for Total Sales, Profit, Quantity
-Time Intelligence (MTD, YTD, Last Year comparisons)
-Multi-page dashboards:
-Executive Summary
-Product Performance
-Customer Analysis
-Time Intelligence
-Interactive slicers (Year, Month, Region, Category)
-Drill-through functionality for detailed insights
+1. KPI cards for Total Sales, Profit, Quantity
+2. Time Intelligence (MTD, YTD, Last Year comparisons)
+3. Multi-page dashboards:
+4. Executive Summary
+5. Product Performance
+6. Customer Analysis
+7. Time Intelligence
+8. Interactive slicers (Year, Month, Region, Category)
+10. Drill-through functionality for detailed insights
 
 ## Key Insights
 Identified top-performing products and categories driving revenue
+
 Analyzed regional sales distribution and growth trends
+
 Observed seasonal patterns using time-based analysis
+
 Segmented customers based on purchasing behavior
+
+## DatSet
+<a href="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Sample%20-%20Superstore.csv.xlsx">DataSet</a>
+###The dataset contains the following fields:
+
+Order ID, Order Date, Ship Date
+Customer Name, Segment, Region, State
+Product Category, Sub-Category, Product Name
+Sales, Quantity, Discount, Profit
 
 ## Dashboard Preview
 
