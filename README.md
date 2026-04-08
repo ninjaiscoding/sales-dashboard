@@ -40,6 +40,7 @@ Segmented customers based on purchasing behavior
 
 ## DatSet
 <a href="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Sample%20-%20Superstore.csv.xlsx">DataSet</a>
+
 ###The dataset contains the following fields:
 
 Order ID, Order Date, Ship Date
