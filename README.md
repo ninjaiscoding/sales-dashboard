@@ -34,3 +34,13 @@ Segmented customers based on purchasing behavior
 ## Dashboard Preview
 
 <img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133244.png" />
+
+<img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133252.png" />
+
+<img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133259.png" />
+
+<img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133311.png" />
+
+<img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133335.png" />
+
+
