@@ -33,4 +33,4 @@ Segmented customers based on purchasing behavior
 
 ## Dashboard Preview
 
-
+<img width="1396" height="772" src="https://github.com/ninjaiscoding/sales-dashboard/blob/main/Screenshot%202026-03-24%20133244.png" />
