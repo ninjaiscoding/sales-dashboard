@@ -1,17 +1,21 @@
-Sales & Customer Insights Dashboard (Power BI)
+
 ## Project Overview
 
-This project presents an interactive Power BI dashboard built using the Superstore dataset to analyze sales performance, customer behavior, and product trends.
+This project is an interactive Sales Performance Dashboard built using Microsoft Power BI based on the Superstore dataset.
+The dashboard provides insights into sales, profit, customers, products, and time trends to support data-driven decision making.
 
 ## Objectives
-Track overall sales, profit, and quantity
-Analyze customer segments and purchasing behavior
-Identify top-performing products and regions
-Perform time-based analysis (MTD, YTD, Year-over-Year)
+1. Analyze overall business performance
+2. Identify top-performing products and regions
+3. Understand customer behavior (new vs repeat)
+4. Track sales trends over time
+5. Enable interactive exploration using slicers, drillthrough, and dynamic visuals
 
 ## Tech Stack
 Power BI
+ 
 DAX
+
 Data Modeling
 
 ## Dashboard Features
